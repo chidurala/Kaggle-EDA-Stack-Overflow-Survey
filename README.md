@@ -1,4 +1,4 @@
-# Kaggle-EDA-Stack-Overflow-Survey
+# Stack Overflow 2018 Developer Survey
 
 Stack Overflow is the largest, most trusted online community for developers to learn, share their knowledge, and build their careers. More than 50 million professional and aspiring programmers visit Stack Overflow each month to help solve coding problems, develop new skills, and find job opportunities.
 
